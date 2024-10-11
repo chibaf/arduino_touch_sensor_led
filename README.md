@@ -14,6 +14,8 @@ this skecth was checked with arduino uno r3.
   touch_sensor_led: arduino sketch
 </pre>
 
+sensor running - youtube
+
 https://www.youtube.com/watch?v=u8OkumNEbw4
 
 ## references
