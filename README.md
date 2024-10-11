@@ -9,7 +9,7 @@ this skecth was checked with arduino uno r3.
 
 <pre>
   digital 2 sensor input
-  digital 4
+  digital 4 sensor input
   digital 13 output=LED
   
   touch_sensor_led: arduino sketch
