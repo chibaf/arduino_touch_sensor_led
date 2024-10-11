@@ -14,6 +14,8 @@ this skecth was checked with arduino uno r3.
   touch_sensor_led: arduino sketch
 </pre>
 
+https://www.youtube.com/watch?v=u8OkumNEbw4
+
 ## references
 
 Arduinoでタッチセンサ（静電容量ライブラリ）を使う方法、スイッチレスで外部入力 ｜ VOLTECHNO
