@@ -1,6 +1,8 @@
 # arduino_touch_sensor_led
 arduino_touch_sensor_led
 
+![image](https://github.com/user-attachments/assets/4d5d809f-7b90-4d32-a321-54cb1bb22353)
+
 sample code touch_sensor_led
 
 this skecth was checked with arduino uno r3.
