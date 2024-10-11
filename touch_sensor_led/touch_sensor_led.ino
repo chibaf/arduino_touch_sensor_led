@@ -15,10 +15,10 @@ void loop()
     long total1 =  cs_4_2.capacitiveSensor(30);
 
     Serial.print(millis() - start);        // check on performance in milliseconds
-    Serial.print("\t");                    // tab character for debug windown spacing
+    Serial.print(", ");                    // tab character for debug windown spacing
 
-    Serial.print(total1);                  // print sensor output 1
-    Serial.println("\t");
+    Serial.println(total1);                  // print sensor output 1
+    //Serial.println("");
 
     if(total1>=800){
       digitalWrite(13, HIGH);
