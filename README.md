@@ -9,6 +9,6 @@ Arduinoでタッチセンサ（静電容量ライブラリ）を使う方法、�
 
 https://voltechno.com/blog/post-20037/
 
-PaulStoffregen/CapacitiveSensor: Detect touch or proximity by capacitve sensing - github
+sensor library: PaulStoffregen/CapacitiveSensor: Detect touch or proximity by capacitve sensing - github
 
 https://github.com/PaulStoffregen/CapacitiveSensor
