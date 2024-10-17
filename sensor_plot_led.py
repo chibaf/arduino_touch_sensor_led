@@ -9,10 +9,8 @@ print("connected to: " + ser.portstr)
 while True:
   line = ser.readline()
   line1=line.strip().decode('utf-8')
-#  if line1=='':
-#    line1="0.0"
-  line3=line1.split(',')
-  d=float(line3[1])
+  line2=line1.split(',')
+  d=float(line2[1])
   print(d)
   data.pop(-1)
   data.insert(0,d)
